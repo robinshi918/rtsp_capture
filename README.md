@@ -6,4 +6,5 @@ My initial idea is to capture the frames from my IP camera and make an elapsed s
 
 ## how tos
 * Open capture_rtsp.py with editor, and edit RTSP_URL with your IP camera's parameter.
-`python3 capture_rtsp.py`
+* run below command 
+  * `python3 capture_rtsp.py`
